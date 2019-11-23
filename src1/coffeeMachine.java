@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Created by: Seyhan A. Cileli
  * Date: October 11, 2019
@@ -8,7 +6,9 @@ import java.util.Scanner;
  *      - Sey'
  */
 
-public class coffeeMachineAdvanced {
+import java.util.Scanner;
+
+public class coffeeMachine {
 
     static int water = 1200; //default value of amount of water in Coffee Machine
     static int espressoWater = 250; //cost of espresso water per cup
