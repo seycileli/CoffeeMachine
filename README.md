@@ -28,9 +28,6 @@ Try yourself at working with loops and conditions and get more confident in Java
 
 https://imgur.com/BuD259h
 
-What you’ll do and what you’ll learn:
--------------------------------------
-
 Stage #1: Hello, coffee!
 ------------------------
 
