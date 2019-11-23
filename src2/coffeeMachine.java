@@ -10,7 +10,7 @@ package PlatformAssignment;
 
 import java.util.Scanner;
 
-public class coffeeMachine_miniProject {
+public class coffeeMachine {
 
     //having local variables
 
