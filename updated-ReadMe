@@ -1,10 +1,12 @@
-Hello viewers!
+updated-ReadMe {
+
+Hello viewers!  {
 
 You'll find several different versions of this project here.
 
 finalsrc is a final version of the Coffee Machine project; it is much cleaner and separated into classes. 
 
 Encapsulation/ Getters & Setters weren't necessary as long as all classes are in one package. 
-
-
-
+      
+      }
+  }
