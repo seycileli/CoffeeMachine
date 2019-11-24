@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class CoffeeMachineFunctions extends Resources {
+public class CoffeeMachineFunctions {
 
     public static void espresso(int userCups) {
 
