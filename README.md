@@ -11,9 +11,9 @@ In this project, you will work on programming a coffee-machine simulator.
 
 The machine works with quite typical products: 
 
-1) coffee, milk, sugar, and plastic cups; 
+- Coffee, milk, sugar, and plastic cups -
 
-if it runs out of something, it shows a notification. 
+IF it runs out of something, it shows a notification. 
 
 The machine can make three types of coffee: espresso, cappuccino, and latte. 
 
