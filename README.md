@@ -11,7 +11,7 @@ In this project, you will work on programming a coffee-machine simulator.
 
 The machine works with quite typical products: 
 
-- Coffee, milk, sugar, and plastic cups -
+- Coffee, milk, sugar, and plastic cups
 
 IF it runs out of something, it shows a notification. 
 
