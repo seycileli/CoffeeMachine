@@ -4,6 +4,7 @@
  *
  * "Spread Love!"
  *      - Sey'
+ *
  */
 
 import java.util.Scanner;
